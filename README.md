@@ -1,7 +1,6 @@
 # LPD8 MK2 SysEx Implementation
 
-A standalone reference for Akai **LPD8 mk2** SysEx message structure, pad assignments & addresses, color examples, and command descriptions—packaged as an `index.html` for easy hosting on GitHub Pages or direct download.
-
+A standalone reference for Akai **LPD8 mk2** SysEx message structure, pad assignments & addresses, color examples, and command descriptions.
 ---
 
 ## Table of Contents
