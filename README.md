@@ -1,5 +1,7 @@
 # Akai LPD8 MK2 SysEx Implementation
 
+Birthed from a two‑hour LLM brainstorm—consider my SysEx skills non‑existent and use this at your own peril.
+
 ## SysEx Message Structure
 
 
