@@ -1,4 +1,4 @@
-# LPD8 MK2 SysEx Implementation
+# Akai LPD8 MK2 SysEx Implementation
 
 ## SysEx Message Structure
 
